@@ -4,4 +4,3 @@ resource "aws_vpc" "Vpc01" {
     Name = Vpc01
   }
 }
-
